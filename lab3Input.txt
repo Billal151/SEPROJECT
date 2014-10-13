@@ -34,9 +34,6 @@
 565013, Stockham Jose
 534497, Ostrosky Rozella
 551972, Gillian Valentine
-449052, Rulapaugh Kati
-455882, Schemmer Youlanda 
-438298, Oldroyd Dyan
 557203, Campain Roxane
 605489, Perin Lavera
 698350, Ferencz Erick
@@ -82,4 +79,4 @@
 571835, Conte Lettie
 616619, Anker Myra
 546701, Barfield Stephaine
-498482, Gato Lai
+

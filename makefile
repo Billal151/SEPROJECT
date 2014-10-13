@@ -9,3 +9,4 @@ Quick.o : Quick.cpp head.h
 
 clean :
 	rm -rf myDB *.o out lab3Output.txt
+//

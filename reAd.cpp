@@ -9,6 +9,7 @@
 #include <cstdlib>
 #include <gdbm.h>
 
+//start
 using namespace std;
 
 int cnt() //initialise and assign the count variable. Count is assigned to the total number of lines in the input text file
